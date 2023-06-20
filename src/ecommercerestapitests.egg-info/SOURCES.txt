@@ -1,0 +1,6 @@
+setup.py
+src/__init__.py
+src/ecommercerestapitests.egg-info/PKG-INFO
+src/ecommercerestapitests.egg-info/SOURCES.txt
+src/ecommercerestapitests.egg-info/dependency_links.txt
+src/ecommercerestapitests.egg-info/top_level.txt

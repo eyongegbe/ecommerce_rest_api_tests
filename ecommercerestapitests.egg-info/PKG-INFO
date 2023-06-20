@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: ecommercerestapitests
+Version: 1.0
+Summary: rest api tests 
+Home-page: http://localhost/testsite/wp-json/wc/v3/
+Author: IT Tester
+Author-email: ittester@gmail.com
